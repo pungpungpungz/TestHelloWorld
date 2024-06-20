@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestHelloWorld</string>
+    <string name="world1">Open World 1</string>
+    <string name="world2">Open World 2</string>
+    <string name="world3">Open World 3</string>
+    <string name="textview">Colorimetric Application</string>
+</resources>
